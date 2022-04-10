@@ -1,1 +1,1 @@
-git rebase <base>
+git rebase <base>we
